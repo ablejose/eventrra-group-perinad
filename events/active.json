@@ -1,0 +1,55 @@
+{
+  "slug": "eventrra-group-perinad",
+  "name": "Eventrra Group",
+  "shortName": "Eventrra Group",
+  "descriptor": "Event Management",
+  "address": "Thannikkamukku, P.O, Thaannikkalmukku, Perinad, Anchalummood, Keralam 691601",
+  "area": "Perinad",
+  "city": "Perinad",
+  "district": "Kollam",
+  "region": "Kerala",
+  "postalCode": "691601",
+  "geo": {
+    "lat": 8.937233899999999,
+    "lng": 76.6175469
+  },
+  "mapsLink": "https://maps.google.com/?cid=8794945951037616198",
+  "phone": "+91 88910 21110",
+  "whatsapp": "918891021110",
+  "rating": 5,
+  "reviewCount": 24,
+  "reviews": [
+    {
+      "name": "Gopika Sasikumar",
+      "rating": 5,
+      "quote": "Good service & very professional and reliable team work .well organised and executed perfectly.Thankyou for your service.🙌🏻"
+    },
+    {
+      "name": "Jishnu Jagannath",
+      "rating": 5,
+      "quote": "We recently had the pleasure of working with Eventraa Event Management in Kollam, and the experience exceeded all expectations. From our very first interaction, their team displayed a high level of professionalism, creativity, and attention to detail that truly set them apart. The planning process was seamless and stress-free."
+    },
+    {
+      "name": "Revathy PR",
+      "rating": 5,
+      "quote": "Nice Event planners. And their coordination was excellent 👍🏻"
+    },
+    {
+      "name": "Amritha Mahendran",
+      "rating": 5,
+      "quote": "Very beautiful work ❤️ i like it👌🏼"
+    },
+    {
+      "name": "Ajith Ashokan",
+      "rating": 5,
+      "quote": "This event management company is absolutely outstanding! From the initial consultation to the final event, their professionalism, creativity, and attention to detail were truly exceptional."
+    }
+  ],
+  "gallery": [
+    "gallery/01.webp",
+    "gallery/02.webp",
+    "gallery/03.webp",
+    "gallery/04.webp"
+  ],
+  "url": "https://eventrra-group-perinad.vercel.app"
+}
